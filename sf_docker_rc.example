@@ -1,0 +1,4 @@
+SF_USERNAME=user@example.com
+SF_PASSWORD=somepassword
+SF_SECURITY_TOKEN=find-yer-salesforce-api-token
+SF_INSTANCE_URL=mirantis.my.salesforce.com
