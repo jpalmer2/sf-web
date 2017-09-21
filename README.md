@@ -18,6 +18,8 @@ $ docker build -t sf-web .
 $ docker run -it --env-file ~/sf_docker_rc sf-web
 ```
 
+It may be necessary to add the `-p 5000:5000` option when using docker for mac
+
 ### Daemon
 
 ```shell
